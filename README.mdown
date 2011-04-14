@@ -1,6 +1,6 @@
 mangos-zero-database ![Project status](http://stillmaintained.com/TheLuda/mangos-zero-database.png)
 ====================
-A content database for [mangos-zero][], and *World of Warcraft Client Patch
+A content database for [mangos-zero][10], and *World of Warcraft Client Patch
 1.12* - [_Drums of War_][50]. It is compatible with client 1.12.1 (build 5875),
 and 1.12.2 (build 6005).
 
