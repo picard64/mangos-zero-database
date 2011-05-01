@@ -10,6 +10,11 @@ been imported from the [UDW database repository][21], and is based on the
 *update pack 3*, and extended with patches from [zerodatabase][22].
 
 
+Compatibility
+-------------
+This database is compatible with *mangos-zero z1638*.
+
+
 Getting started
 ---------------
 The basic principle behind this customized database repository is to keep the
